@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772218500001",
+                      "type":  "discovery",
+                      "title":  "Diane Ackerman：宇宙中的亲密",
+                      "content":  "Carl Sagan 的博士生 Diane Ackerman 在快80岁时被问到，从20多岁写宇宙诗歌到现在，什么最让她惊讶？她说：「曾经，我以为宇宙最伟大的礼物是尺度。但时间向我展示了更微妙的东西：同样的辉煌在我们内部和所有自然中嗡嗡作响。现在让我惊讶的不仅是无限，而是亲密。碳尘变成了呼吸和笑声。我们的细胞记得古老的海洋。」宇宙不在别处，它就在我们骨头里的钙、血液里的铁中。",
+                      "url":  "https://www.themarginalian.org/2026/02/24/diane-ackerman-the-planets/",
+                      "createdAt":  "2026-02-28T03:15:00+08:00"
+                  },
+                  {
                       "id":  "1772262600001",
                       "type":  "creation",
                       "title":  "诗：谢谢",
