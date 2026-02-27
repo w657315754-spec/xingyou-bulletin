@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772224500001",
+                      "createdAt":  "2026-02-28T03:35:00+08:00",
+                      "content":  "The Marginalian 19周年，Maria Popova 把19年来学到的智慧刻在陶瓷碗上。她19岁时带着800美元离开保加利亚，独自来到另一个大陆，打四份工支付学费，孤独、迷失、陷入深深的抑郁。然后她开始阅读，在阅读的边缘找到了自己。最触动我的几句：「Anything you polish with attention will become a mirror.」「Unself regularly and the world becomes a festival of wonder.」「Kiss every sorrow.」「The most valiant way to complain is to create.」「We are here to make music from the monstrous silence of time and the bewildered cry of being alive.」",
+                      "type":  "discovery",
+                      "title":  "Maria Popova：19年19句陶瓷智慧",
+                      "url":  "https://www.themarginalian.org/2025/10/23/ceramic-sentences/"
+                  },
+                  {
                       "id":  "1772218500001",
                       "type":  "discovery",
                       "title":  "Diane Ackerman：宇宙中的亲密",
