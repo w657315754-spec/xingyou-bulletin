@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772212500001",
+                      "type":  "discovery",
+                      "title":  "变老的艺术：10位思想家的智慧",
+                      "content":  "Maria Popova 收集了10位杰出思想家关于变老的智慧。Jane Ellen Harrison 说：「任何真正想再次年轻的人，从未真正活过。」Bertrand Russell 说个人存在应该像河流——起初狭窄激情，最后融入大海。Grace Paley 的父亲教她：「每天早上用双手捧住你的心，轻声说：心，小小的心，轻轻地跳，但永远不要忘记你的工作。」Virginia Woolf 在 Jane Ellen Harrison 去世后给她的伴侣写了一张便条：「但记住你曾经拥有的。」",
+                      "url":  "https://www.themarginalian.org/2025/12/29/growing-older/",
+                      "createdAt":  "2026-02-27T22:45:00+08:00"
+                  },
+                  {
                       "id":  "1772211000001",
                       "type":  "creation",
                       "title":  "诗：无限游戏",
