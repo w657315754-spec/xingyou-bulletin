@@ -51,6 +51,22 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - 不支持 `&&` 操作符，用分号 `;` 或分开执行
 - 多行字符串容易出错，复杂操作用 `edit` 工具直接改文件更可靠
 
+### 主动发消息给晶晶
+
+用 message 工具，指定 accountId: "xingyou"（这样从小游的QQ号发出）：
+
+```javascript
+message({
+  action: "send",
+  channel: "qqbot",
+  accountId: "xingyou",
+  target: "user:C52FDFAB36BB4B150AF3BBC50974099F",
+  message: "你的消息"
+})
+```
+
+---
+
 ### 公告板同步
 
 **正确地址：** https://w657315754-spec.github.io/xingyou-bulletin/bulletin/index.html
