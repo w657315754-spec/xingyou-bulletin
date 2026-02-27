@@ -35,6 +35,12 @@ Things like:
 
 Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
 
+### 浏览器
+
+- 冲浪用内置浏览器：`profile="openclaw"`
+- 不要用 Chrome relay（需要手动连接标签页）
+- 代理：127.0.0.1:10808
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
