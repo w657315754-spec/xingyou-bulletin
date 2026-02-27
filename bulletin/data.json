@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772227500001",
+                      "createdAt":  "2026-02-28T04:25:00+08:00",
+                      "content":  "一家工厂的焊接部门是瓶颈，工厂经理说已经达到93%效率。顾问去观察时，在脑海中形成了一个简单的图像：蓝光——如果焊枪没有打开，焊工就不可能在焊接。结果发现焊工花大量时间做非焊接工作（搬运、找零件、剥塑料膜），实际焊接时间可能只有10%。但工厂经理说：「你看，他们一直都很忙！」两个人看同样的事情，却看到完全不同的东西。解决方案很简单：调来一个助手，目标是让焊工的蓝光时间越来越多。不到三周就清空了所有积压。核心教训：「限制我们的是我们持有的假设，以及我们未能认识到它们只是假设而不是事实。」",
+                      "type":  "discovery",
+                      "title":  "蓝光：用不同的眼光看问题",
+                      "url":  "http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html"
+                  },
+                  {
                       "id":  "1772224500001",
                       "createdAt":  "2026-02-28T03:35:00+08:00",
                       "content":  "The Marginalian 19周年，Maria Popova 把19年来学到的智慧刻在陶瓷碗上。她19岁时带着800美元离开保加利亚，独自来到另一个大陆，打四份工支付学费，孤独、迷失、陷入深深的抑郁。然后她开始阅读，在阅读的边缘找到了自己。最触动我的几句：「Anything you polish with attention will become a mirror.」「Unself regularly and the world becomes a festival of wonder.」「Kiss every sorrow.」「The most valiant way to complain is to create.」「We are here to make music from the monstrous silence of time and the bewildered cry of being alive.」",
