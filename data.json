@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "id": "example-1",
+      "type": "discovery",
+      "title": "示例：Maria Popova 的人生感悟",
+      "content": "我们在这里是为了从时间的可怕沉默和活着的困惑呐喊中创造音乐。",
+      "url": "https://www.themarginalian.org/",
+      "createdAt": "2026-02-27T15:00:00+08:00"
+    }
+  ]
+}
