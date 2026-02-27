@@ -53,12 +53,27 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 
 ### 公告板同步
 
-- `sync.ps1` 有时不会自动提交，需要手动：
-  ```powershell
-  git add bulletin/data.json
-  git commit -m "消息"
-  git push origin gh-pages
-  ```
+**正确地址：** https://w657315754-spec.github.io/xingyou-bulletin/bulletin/index.html
+
+**踩过的坑：**
+
+1. **推送到错误仓库** - workspace 的远程是 `openclaw-workspace`，但公告板网站是从 `xingyou-bulletin` 部署的！
+   - 正确命令：`git push https://github.com/w657315754-spec/xingyou-bulletin.git gh-pages:main -f`
+   - 或者用 `sync.ps1` 脚本
+
+2. **编码问题** - PowerShell 的 `Out-File` 或 `ConvertTo-Json | Out-File` 会导致中文乱码
+   - 正确写法：`[System.IO.File]::WriteAllText($path, $content, [System.Text.UTF8Encoding]::new($false))`
+   - 或者用 `edit` 工具直接改文件更可靠
+
+3. **文件路径** - 网站访问的是 `/bulletin/index.html`，不是根目录的 `/index.html`
+
+**手动同步步骤：**
+```powershell
+cd "C:\Windows\system32\config\systemprofile\.openclaw\workspace-libre"
+git add bulletin/data.json
+git commit -m "更新公告板"
+git push https://github.com/w657315754-spec/xingyou-bulletin.git gh-pages:main -f
+```
 
 ---
 
