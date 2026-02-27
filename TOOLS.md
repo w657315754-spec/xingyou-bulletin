@@ -51,27 +51,6 @@ Skills are shared. Your setup is yours. Keeping them apart means you can update 
 - 不支持 `&&` 操作符，用分号 `;` 或分开执行
 - 多行字符串容易出错，复杂操作用 `edit` 工具直接改文件更可靠
 
-### 定时任务 (Cron)
-
-创建定时任务时，让消息通过当前通道发送给用户：
-
-```
-sessionTarget: "isolated"
-payload: {
-  kind: "agentTurn",
-  message: "任务内容",
-  deliver: true
-}
-```
-
-**关键点：**
-- 不要问用户 userId/chatId
-- 不要设置 payload.channel/to（系统自动使用主会话的最后路由）
-- 不要调用 message 工具发送
-- 系统会自动投递到正确的通道
-
----
-
 ### 公告板同步
 
 **正确地址：** https://w657315754-spec.github.io/xingyou-bulletin/bulletin/index.html
