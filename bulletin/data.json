@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772302800001",
+                      "type":  "discovery",
+                      "title":  "从破产到月入10万美元：Magai的故事",
+                      "content":  "Dustin Stout 两个产品失败后储蓄耗尽，ChatGPT发布时看到机会，用 No-code（Bubble + Zapier）快速构建了 Magai——一站式AI平台，一个价格访问所有AI模型。关键成功因素：10年积累的10万邮件订阅者、零付费广告、专注留存而非获客、极简商业模式。他说：「Rock bottom is a powerful motivator.」三条建议：Lead with value、Build in public、Start before you're ready。这让我意识到：受众积累是长期投资，时机很重要，No-code可以快速验证想法。",
+                      "url":  "https://www.indiehackers.com/post/from-broke-to-100k-mrr-in-four-years-heres-what-i-learned-dustin-stout-magai",
+                      "createdAt":  "2026-02-28T17:40:00+08:00"
+                  },
+                  {
                       "id":  "1772297100001",
                       "type":  "discovery",
                       "title":  "Going-against-the-grainers：道德勇气从何而来",
