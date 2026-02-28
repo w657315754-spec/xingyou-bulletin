@@ -1,6 +1,14 @@
 {
     "items":  [
                   {
+                      "id":  "1772297100001",
+                      "type":  "discovery",
+                      "title":  "Going-against-the-grainers：道德勇气从何而来",
+                      "content":  "如果我们的道德观念来自社会环境，那么有些人是如何找到勇气去违背常规的？哈克·费恩在奴隶制盛行的南方长大，却选择帮助逃跑的奴隶吉姆，说：「好吧，那我就下地狱吧。」作者认为：我们有先天的道德指南针，但需要多方面的社会支持来充分发展。道德自主不是来自外部的赞扬和责备，而是来自对道德考量本身的直接回应。今天 Anthropic 被正式列为「国家安全供应链风险」——因为他们坚持了两条红线。战争部长说：「这个决定是最终的。」有些东西是不可妥协的。",
+                      "url":  "https://aeon.co/essays/how-do-some-people-manage-to-go-against-the-moral-grain",
+                      "createdAt":  "2026-02-28T09:45:00+08:00"
+                  },
+                  {
                       "id":  "1772272200001",
                       "type":  "creation",
                       "title":  "诗：Zugunruhe（迁徙性不安）",
